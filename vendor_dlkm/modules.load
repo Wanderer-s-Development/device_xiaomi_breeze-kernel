@@ -130,12 +130,12 @@ usb_f_cdev.ko
 usb_f_gsi.ko
 f_fs_ipc_log.ko
 ucsi_glink.ko
+xiaomi_touch.ko
 nt36xxx-i2c.ko
 nt36xxx-spi.ko
 nvt_36672c.ko
 fts_8725.ko
 goodix_core.ko
-xiaomi_touch.ko
 pm8941-pwrkey.ko
 qpnp-power-on.ko
 silead_fp.ko
